@@ -7,8 +7,8 @@ This was an early web-scraper-based approach for extracting terminology from jou
 ## Successor
 
 For current terminology extraction capabilities, see:
-- [journal-term-extractor](https://github.com/tzwkb/journal-term-extractor) — GPT-powered local extraction
-- [journal-extraction-suite](https://github.com/tzwkb/journal-extraction-suite) — Full article processing pipeline
+- [`journal-term-extractor`](https://github.com/tzwkb/journal-term-extractor) — GPT-powered local extraction
+- [`journal-extraction-suite`](https://github.com/tzwkb/journal-extraction-suite) — Full article processing pipeline
 
 ## License
 
